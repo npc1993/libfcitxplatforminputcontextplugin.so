@@ -9,5 +9,5 @@ Put the file in `/usr/lib/rstudio/bin/plugins/platforminputcontexts/` and
 rename it to `libfcitxplatforminputcontextplugin.so`.
 
 If you have the same environment with me, you can try the deb package out.
-Date: 2018-06-05
-Tested: Debian stretch + RStudio 1.1.453, Debian sid + RStudio 1.1.453.
+- Date: 2018-06-05
+- Tested: Debian stretch + RStudio 1.1.453, Debian sid + RStudio 1.1.453.
