@@ -1,3 +1,8 @@
+### 2018-12-08 更新
+
+最新的 RStudio 版本为 1.2.1114，Qt 版本为 Qt-5.11.1。RStudio 自带的 `libQt5*` 文件保存在 `/usr/lib/rstudio/lib` 下，`2018-08-16 更新`的方法移除这些文件的办法又失效了。
+所以现在又一次需要自己编译了。NOT Peace...
+
 ### 2018-08-16 更新
 现在这个问题似乎有了新的办法，详见我的博客 [解决 Debian 中 RStudio 和 Mendeley 下 Fcitx 输入法不能使用的问题 #12](https://github.com/JackieMium/my_blog/issues/12) 开头部分的更新。
 
